@@ -1,3 +1,8 @@
 .centrar{
     text-align: center;
 }
+
+.sombreado{
+    box-shadow: 5px 5px 10px ;
+    border-style: none;
+}
